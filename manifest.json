@@ -6,6 +6,7 @@
   "kind": "code",
   "license": "GPL-3.0-or-later",
   "compat": ">=0.1",
+  "description": "Fills the frame with one flat colour — a matte, a background, or a base for other effects.",
   "author": "HereLiesAz",
   "runtime": "js",
   "entry": "code/main.js",
